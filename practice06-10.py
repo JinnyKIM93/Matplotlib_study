@@ -167,10 +167,3 @@ plt.plot(x, y)
 plt.yscale('linear')
 # plt.yscale('log')
 plt.show()
-
-
-
-
-
-
-
